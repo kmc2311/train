@@ -39,6 +39,8 @@ class _SimpleTrainingAppState extends State<SimpleTrainingApp> {
     ["https://pbs.twimg.com/media/E56ewtEUUAU24GN?format=jpg&name=4096x4096", "SSR"],
     ["https://pbs.twimg.com/media/Ef7rEoSUYAEnprH?format=jpg&name=4096x4096", "SR"],
     ["https://pbs.twimg.com/media/FivVip1UcAEvVme?format=jpg&name=4096x4096", "SR"],
+    ["https://pbs.twimg.com/media/G-NRxbKXIAAJQ2D?format=jpg&name=4096x4096", "SSR"],
+    ["https://pbs.twimg.com/media/EVS1JV0UYAAluOo?format=jpg&name=medium", "SSR"],
     ["https://pbs.twimg.com/media/EfHsamiUwAEJPJh?format=jpg&name=4096x4096", "SSR"]
       ];
 
